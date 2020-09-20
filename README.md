@@ -1,4 +1,9 @@
-### Hi there 👋
+### Android Software Engineer at Kakao
+- Developing [KakaoTalk for Android](https://play.google.com/store/apps/details?id=com.kakao.talk)
+
+### Drone Flyer
+- [![](http://img.youtube.com/vi/EY4xxpX8MlE/0.jpg)](http://www.youtube.com/watch?v=EY4xxpX8MlE)
+
 
 <!--
 **DemianHwang/DemianHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
